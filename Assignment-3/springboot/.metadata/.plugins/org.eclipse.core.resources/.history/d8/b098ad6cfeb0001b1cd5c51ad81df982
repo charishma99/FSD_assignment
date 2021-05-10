@@ -1,5 +1,0 @@
-package com.employee.employee.model;
-
-public @interface Column {
-
-}
